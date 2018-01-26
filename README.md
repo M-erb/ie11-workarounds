@@ -1,6 +1,8 @@
 # ie11-workarounds
 A place to store easily forgotten IE11 workarounds
 
+[FormData]{#formdata-submission-error}
+
 ## FormData() Submission Error
 ### Situation
 This popped up for me when trying to push up a PDF file only to a server via a REST API end point using JavaScript. The server comes back with an error. We found that the "FormData" string is being corrupted/invalid by IE11 and is therefore unusable by the server.
