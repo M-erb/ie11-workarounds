@@ -2,6 +2,7 @@
 A place to store easily forgotten IE11 workarounds
 
 [FormData](#formdata-submission-error)
+[<fieldset> cannot be display:flexbox](#<fieldset> cannot be display:flexbox)
 
 ***
 ## FormData() Submission Error
@@ -39,3 +40,6 @@ uploadPDF() {
 * [Here](https://blog.yorkxin.org/2014/02/06/ajax-with-formdata-is-broken-on-ie10-ie11) Describes some more situations and workarounds.
 * [Another issue](https://stackoverflow.com/questions/26206105/formdata-in-ie-11-not-defined) That one could run into.
 ***
+## <fieldset> cannot be display:flexbox
+  
+
