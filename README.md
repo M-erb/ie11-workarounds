@@ -36,6 +36,6 @@ uploadPDF() {
 ```
 
 ### Resources
-[Here](https://blog.yorkxin.org/2014/02/06/ajax-with-formdata-is-broken-on-ie10-ie11) Describes some more situations and workarounds.
-[Another issue](https://stackoverflow.com/questions/26206105/formdata-in-ie-11-not-defined) That one could run into.
+* [Here](https://blog.yorkxin.org/2014/02/06/ajax-with-formdata-is-broken-on-ie10-ie11) Describes some more situations and workarounds.
+* [Another issue](https://stackoverflow.com/questions/26206105/formdata-in-ie-11-not-defined) That one could run into.
 ***
